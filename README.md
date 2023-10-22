@@ -52,4 +52,4 @@ Though I consider myself a Jack-of-all-trades and master of none, I've been lurk
 
 
 ### Contributions
-!{Tailscale Monitor Type for Uptime Kuma](https://github.com/louislam/uptime-kuma/pull/3178)
+![Tailscale Monitor Type for Uptime Kuma](https://github.com/louislam/uptime-kuma/pull/3178)
