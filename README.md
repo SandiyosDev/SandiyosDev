@@ -1,6 +1,6 @@
 # Hi, I'm Sandiyos
 
-I'm a network engineer by day, and a shady hoodied coder by night, self-taught in Java, JavaScript, Python, and Liquid (alongside HTML & CSS). My work is often assisted by Copilot.
+I'm a sysadmin by day, and a shady hoodied coder by night, self-taught in Java, JavaScript, Python, and Liquid (alongside HTML & CSS). My work is often assisted by Copilot.
 
 I hail from 🌍 while contributing without borders, working on things that affects me, and my active projects are pinned. 
 
